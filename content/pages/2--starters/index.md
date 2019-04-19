@@ -1,20 +1,29 @@
 ---
-title: Other GatsbyJs starters
-menuTitle: My starters
+title: My profile
+menuTitle: My profile
 ---
 
-[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+I am a front-end developer, and this is where I share with the world what I've learned.
 
-![SimpleLanding](./gatsby-starter-simple-landing.png)
+### Flock - A Directi Company (October 2017 - Present)
+I worked on in-page applications at Flock. I have single-handedly built the front-end of the following apps.
+- Mailcast -- Create, modify and delete mailing lists
+- Polls -- The polls app allows users to post polls in channels and chats
+- Google Calendar -- This is a sidebar app for Flock. It is an integration with Google Calendar
+- Flock Video Conferencing - A WebRTC based Video Conferencing solution, implemented using Vue and Twilio.
 
-### SimpleLanding
+---
+### Olacabs (December 2015 - September 2017)
+- Built Suvidha - Supply solution for Drivers and Agents for verification and addition of documents. It used Webpack, SASS and Angular 2 on the front-end.
+- Boost Zones - Highlighting areas of high demand for Drivers on Maps.
 
-As the name says, it is a landing page starter.
-[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
+---
+### Housing.com (March 2015 - November 2015)
+- Worked on rent section of Housing.com
+- Used Backbone.js and built Localities feature for rent
 
-![StyledBlog](./gatsby-styled-blog-starter.jpg)
-
-### StyledBlog
-
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)
+### Contact
+You can follow/connect with me on:
+- [LinkedIn](https://linkedin.com/divyam-rastogi)
+- [Facebook](https://facebook.com/rastogidivyam)
+- [Twitter](https://twitter.com/divyamrstogi)
