@@ -2,8 +2,10 @@
 title: Commonly asked javascript interview questions
 subTitle: Frontend and UI interview questions
 category: "interview"
-cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
+cover: joshua-aragon-1247600-unsplash.jpg
 ---
+
+![macbook image with some code](joshua-aragon-1247600-unsplash.jpg)
 
 I'm posting a few questions that I have come across in some of the interviews I gave. I'll probably sort it company-wise in my later posts. To save time, I have skipped the answers to some questions; they are easy enough to find on Google. I've also mentioned the chances of any developer coming across these questions in an interview.
 
@@ -32,7 +34,7 @@ Using document.getElementById() is known to be much faster than $(‘#someId’)
 
 **How will you use theming on a web application? Suppose you want to have multiple themes on the web page. How will you achieve it? (Low)**
 
-There are a few ways to do this. If your web application is enormous, then you should use AMD(Asynchronous Module Definition)/require.js to switch the CSS styles while removing the old ones. If it is small enough, then you can use pure Javascript and CSS hierarchy to achieve the design. 
+There are a few ways to do this. If your web application is enormous, then you should use AMD(Asynchronous Module Definition)/require.js to switch the CSS styles while removing the old ones. If it is small enough, then you can use pure Javascript and CSS hierarchy to achieve the design.
 
 **You are a poor shopkeeper who can afford only four weights. However, you have to able to weigh every weight between 1kg and 40kg. How will you achieve this? (Puzzle)**
 
