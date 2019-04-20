@@ -1,7 +1,7 @@
 /* eslint  react/prop-types: 0 */
 import React from "react";
 
-let stylesStr;
+let stylesStr = "";
 if (process.env.NODE_ENV === `production`) {
   try {
     stylesStr = require(`!raw-loader!../public/styles.css`);
@@ -24,6 +24,11 @@ module.exports = class HTML extends React.Component {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {this.props.headComponents}
           {css}
+          <style
+            dangerouslySetInnerHTML={{
+              __html: `.fb-comments, .fb-comments iframe[style] {width: 100% !important;}`
+            }}
+          />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="#D0E0D8" />
           <meta name="apple-mobile-web-app-title" content="Lazywill" />

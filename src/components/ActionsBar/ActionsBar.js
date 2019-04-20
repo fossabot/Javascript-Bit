@@ -5,7 +5,7 @@ import IconButton from "@material-ui/core/IconButton";
 
 import Link from "gatsby-link";
 import { connect } from "react-redux";
-import screenfull from "screenfull";
+import screenfull from "../../utils/screenfull";
 
 import HomeIcon from "@material-ui/icons/Home";
 import SearchIcon from "@material-ui/icons/Search";
