@@ -62,3 +62,5 @@ You can follow/connect with me on:
 - [LinkedIn](https://linkedin.com/in/divyam-rastogi)
 - [Facebook](https://facebook.com/rastogidivyam)
 - [Twitter](https://twitter.com/divyamrstogi)
+
+Or you could just leave me a message [here](../contact).
