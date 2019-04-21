@@ -3,8 +3,9 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   siteTitle: "JavascriptBit - Tutorials about JS Frameworks", // <title>
   shortSiteTitle: "Javascript tutorials for Beginners and Non-Beginners", // <title> ending for posts and pages
-  siteDescription:
-    "javascript tutorial, learn javascript, javascript basics, javascript course, way to learn javascript, javascript training, jscript tutorial - tutorials on JS Frameworks, React, Vue, Vanilla and NodeJS.",
+  siteDescription: `javascript tutorial, learn javascript, javascript basics, 
+  javascript course, way to learn javascript, javascript training, 
+  jscript tutorial - tutorials on JS Frameworks, React, Vue, Vanilla and NodeJS.`,
   siteUrl: "https://javascriptbit.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
