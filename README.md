@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eb08f1b1-387f-4cce-8660-de8a2bdfce75/deploy-status)](https://app.netlify.com/sites/javascriptbit/deploys)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdivyamrastogi%2FJavascript-Bit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdivyamrastogi%2FJavascript-Bit?ref=badge_shield)
 
 # PersonalBlog
 
@@ -36,3 +37,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [prettier]: https://github.com/prettier/prettier
 [mit-badge]: https://img.shields.io/github/license/greglobinski/gatsby-starter-personal-blog.svg
 [mit]: https://github.com/greglobinski/gatsby-starter-personal-blog/blob/master/LICENSE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdivyamrastogi%2FJavascript-Bit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdivyamrastogi%2FJavascript-Bit?ref=badge_large)
